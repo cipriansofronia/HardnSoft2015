@@ -1,6 +1,6 @@
 # HardnSoft2015
 
-Application developed for Hard and Soft 2015 competition.
+Android application developed for Hard and Soft 2015 competition.
 http://www.hardandsoft.ro/
 
 Internet of things Intel Edison
