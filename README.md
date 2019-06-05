@@ -1,10 +1,12 @@
 # HardnSoft2015
 
 Android application developed for Hard and Soft 2015 competition.
-http://www.hardandsoft.ro/
+
+http://www.hardandsoft.ro/html/2015.html
 
 Internet of things Intel Edison
-Project descriptionWearable system for:
+
+Wearable system for:
 - Orienteering: RFID, GPS
 - Biometric data gathering: heart rate, respiration rate, body temperature, number of steps, distance travelled, calories burned
 - Enviroment reading: air temperature, humidity
